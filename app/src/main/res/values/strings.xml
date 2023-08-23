@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="search_pokemon">Cari Pokemon</string>
+    <string name="name_profile">Stefanny</string>
+    <string name="email_profile">stefannytan@gmail.com</string>
+</resources>
